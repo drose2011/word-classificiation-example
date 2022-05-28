@@ -2,5 +2,5 @@
 Basic example of word classification
 
 I am not quite sure what the end application of this will be, but this is a basic proof of concept of text classification. 
-Running the wordClassification.py script will prompt you to enter a word or phrase and then return the top 10 clasifications the word or phrase falls under. The top 10 are out of a list of 100 paramaters I made and can be easily changed. 
-I used the Hugging Face library and their pretrained NLP models to do these classifications. 
+Running the wordClassifier.py script will prompt you to enter a word or phrase and then return the top 5 clasifications the word or phrase falls under. These top 5 are out of a list of ~20 catagories I made and can be easily changed. The time to run noted can change signifigantly depending on what machine they are run on.
+I used the Hugging Face library and their pretrained NLP models to do these classifications.
